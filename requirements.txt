@@ -1,4 +1,6 @@
 newthon
 ffmpeg
 Pillow
-sqlite3 
+python-dotenv
+requests
+telethon
